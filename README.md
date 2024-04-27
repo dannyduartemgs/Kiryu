@@ -7,7 +7,7 @@ Loader it's so hard to work with for skin making, but here it is, the dragon of 
 
 ![kiryu gameplay](https://github.com/dannyduartemgs/Kiryu/assets/165226477/1261ac07-ed09-42b7-82c4-40ef73c054da)
 
-There's some weird distortions with the arms but anything else it's fine. I would like to port kiryu to another character that could be easier, so if you have a recommendation let me know.
+There's some weird distortions with the arms and his neck is a little long but anything else it's fine. I would like to port kiryu to another character that could be easier, so if you have a recommendation let me know.
 
 Enjoy!
 
